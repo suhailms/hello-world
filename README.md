@@ -1,6 +1,7 @@
-# hello-world
-my first thing
+#hello-world
+#my first thing
+
 #include<iostream.h>
 
-This uis also testing..
- cheers..!
+#This is also testing..
+#cheers..!
